@@ -1,0 +1,13 @@
+To use this project you need to install 
+        - MySQLdb (pip install mysql-client)
+
+This project imports MySQLdb package 
+
+About Project :-
+    Firstly, you are being displayed the 10 different  types of daisies availabel 
+    Secondly, user is given choice to select the type of daisy to be bought 
+    Thirdly,user is given choice to select no. of quantites they want to buy
+    Fourthly,total amount is being displayed by multiplying amount of one plant to no. of quantities
+    Lastly,user is given the choice to continue or to exit
+        -if user continues , the code runs from displaying the menu
+        - else the code ends.....                   
