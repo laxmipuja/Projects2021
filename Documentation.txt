@@ -1,0 +1,29 @@
+Project name-Write a program to generate console based invoice
+Team includes:
+        Laxmipuja Biradar
+        Tanmay Naik
+        Sanjana Tawati
+        Krishna Patel
+        Meghna Dasari
+To use this project you need to install 
+        - MySQLdb (pip install mysql-client)
+
+This project imports MySQLdb package 
+
+About Project :-
+    Firstly, you are being displayed the 10 different  types of daisies available
+    Secondly, user is given choice to select the type of daisy to be bought or to add new varities of daisies yourself/or to exit 
+        -If user selects to choose daisies from menu then menu would be displayed  
+            -user is given choice to select no. of quantites they want to buy
+            -total amount is being displayed by multiplying amount of one plant to no. of quantities  
+            Lastly,user is given the choice to continue or to exit
+        -if user continues , the code runs from displaying the menu
+        - else the code ends.....                   
+
+        -If user selects to enter the new variety of Daisy by thmeselves 
+                -message is displayed to enter ID ,RATE and TYPE of daisy to inserted
+                -Entered daisy will be entered in database
+        -If user selects to exit a proper exit message is displayed
+   
+ 
+    
